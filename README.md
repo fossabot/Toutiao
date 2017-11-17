@@ -1,4 +1,5 @@
-[![Platform][1]][2]  [![Build Status][3]][4]  [![Release][5]][6]  [![GitHub license][7]][8] 
+[![Platform][1]][2] [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FToutiao.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FToutiao?ref=badge_shield)
+ [![Build Status][3]][4]  [![Release][5]][6]  [![GitHub license][7]][8] 
 
 [1]:https://img.shields.io/badge/platform-Android-blue.svg  
 [2]:https://github.com/iMeiji/Toutiao
@@ -9,6 +10,9 @@
 [7]:https://img.shields.io/badge/license-Apache%202-blue.svg
 [8]:https://github.com/iMeiji/Toutiao/blob/master/LICENSE
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FToutiao.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FToutiao?ref=badge_large)
 
 ## 头条
 <img src="./art/logo.png" width="128" alt="logo">
